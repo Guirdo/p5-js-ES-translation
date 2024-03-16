@@ -1,4 +1,4 @@
-# Bacth #1 - 13 al 20 de marzo
+# Batch #1 - 13 al 20 de marzo
 
 ## Distribución de los textos
 
