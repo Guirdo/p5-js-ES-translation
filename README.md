@@ -8,7 +8,7 @@
 
 ### Contributors
 
-- Diana Galindo
+- Diana Galindo - [@DianaMGalindo](https://github.com/DianaMGalindo)
 - Marcela Martínez - [@ml008008](https://github.com/ml008008)
 - Marianne Teixido - [@MarianneTeixido](https://github.com/MarianneTeixido)
 - Xavier Gongora - [@ninioArtillero](https://github.com/ninioArtillero)
