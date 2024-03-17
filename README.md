@@ -1,5 +1,7 @@
 # Equipo de traducción al español de la documentación de p5.js
 
+En este repositorio se registró la bitacora de trabajo y los consensos para orientar la traducción al español de la documentación de p5.js
+
 ## Integrantes del equipo
 
 ### Stewards
@@ -13,3 +15,8 @@
 - Marianne Teixido - [@MarianneTeixido](https://github.com/MarianneTeixido)
 - Xavier Gongora - [@ninioArtillero](https://github.com/ninioArtillero)
 - Emilio Ocelotl - [@EmilioOcelotl](https://github.com/EmilioOcelotl)
+
+### Lideres del proyecto
+- Qianqian Ye - [@Qianqianye](https://github.com/Qianqianye) (Lider de p5.js)
+- Kenneth Lim - [@limzykenneth](https://github.com/limzykenneth) (Colider del proyecto de traducción de p5.js)
+- Karen Abe (Gerente del proyecto de traducción de p5.js)
