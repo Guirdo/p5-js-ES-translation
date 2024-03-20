@@ -14,3 +14,8 @@
 - El título del _pull request_ debe tener el siguiente formato:
 
     `[p5.js - es] Translate name_of_file_to_translate`
+
+## Recomendaciones
+
+- Utilizar una extensión el editor de código que revise la ortografía, como [esta](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-spanish) que es compatible con VSCode.
+- Utilizar una extensión para previsualizar los archivos _markdown_, como [esta](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles) que es compatible con VSCode.
