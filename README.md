@@ -1,6 +1,6 @@
 # Equipo de traducción al español de la documentación de p5.js
 
-En este repositorio se registró la bitacora de trabajo y los consensos para orientar la traducción al español de la documentación de p5.js
+En este repositorio se registró la bitacora de trabajo y los consensos para orientar la traducción al español de [la documentación de p5.js](https://github.com/processing/p5.js).
 
 ## Integrantes del equipo
 
