@@ -11,5 +11,6 @@
   + La única excepción a esta regla son las palabras que se usan en referencia a variables/constantes/parámetros en bloques de código
 - Corregir el [uso de comas al español](https://elblogdeidiomas.es/11-reglas-como-usar-coma-en-espanol/)
 - Utilizar el [glosario de traducción]() (se requiere permiso de acceso a la carpeta del _drive_)
+- El título del _pull request_ debe tener el siguiente formato:
 
-
+    `[p5.js - es] Translate name_of_file_to_translate`
