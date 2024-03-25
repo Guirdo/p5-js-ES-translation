@@ -9,7 +9,7 @@ En el siguiente documento pueden ver las instrucciones generales que usaremos pa
 ## Distribución de los textos
 
 Tabla donde pueden encontrar los tabs y los nombres de las funciones a traducir
-[Reference tracker](https://docs.google.com/spreadsheets/d/1NwJK9Z6OH3cCiCx1TpRSHhMW8-5ZTZRPMewptC_RyJ8/edit?usp=sharing)
+[Reference tracker](https://docs.google.com/spreadsheets/d/10Rcy8ZLvABKjtzk1ZL7HlhyFOrdowifBJOUgMqverCU/edit?usp=sharing)
 
 **Diana** 
 - Accessibility - 4
