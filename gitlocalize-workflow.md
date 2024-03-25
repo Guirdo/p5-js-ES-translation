@@ -2,7 +2,7 @@
 
 Estos son los pasos a seguir al trabajar con GitLocalize.
 
-1. Busca el texto que se te asigno. Ver [Seguimiento de la traducciones de las Referencias].(https://docs.google.com/spreadsheets/d/10Rcy8ZLvABKjtzk1ZL7HlhyFOrdowifBJOUgMqverCU/edit?usp=sharing)
+1. Busca el texto que se te asigno. Ver [Seguimiento de la traducciones de las Referencias](https://docs.google.com/spreadsheets/d/10Rcy8ZLvABKjtzk1ZL7HlhyFOrdowifBJOUgMqverCU/edit?usp=sharing).
 2. Realiza la traducción.
 3. Al terminar, dale una ultima revisión a tu trabajo y envía una _Review Request_.
 4. Los _stewards_ revisarán tu traducción y darán retroalimentación si es necesario.
