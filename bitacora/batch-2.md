@@ -11,7 +11,7 @@ En el siguiente documento pueden ver las instrucciones generales que usaremos pa
 Tabla donde pueden encontrar los tabs y los nombres de las funciones a traducir
 [Reference tracker](https://docs.google.com/spreadsheets/d/10Rcy8ZLvABKjtzk1ZL7HlhyFOrdowifBJOUgMqverCU/edit?usp=sharing)
 
-**Diana** 
+**Diana** - https://github.com/bocoup/p5.js-website/pull/92
 - Accessibility - 4
 - Environment - 22
 - Math - Los primeros 17 elementos desde `abs()` to `sqrt()`
@@ -20,13 +20,14 @@ Tabla donde pueden encontrar los tabs y los nombres de las funciones a traducir
 - Color - 28
 - Shape - 16
 
-**Xavier** 
+**Xavier** - https://github.com/bocoup/p5.js-website/pull/88
 - Math - Los últimos 49 elementos, desde `fract()` hasta el final
 
 **Marianne**
 - DOM - 47
 
-**Emilio**
+**Emilio** - https://github.com/bocoup/p5.js-website/pull/90
 - Image - 36
 - Typography - 14
 
+En este PR se encuentra los cambios hecho desde GitLocalize: https://github.com/bocoup/p5.js-website/pull/76
