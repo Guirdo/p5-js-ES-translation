@@ -16,7 +16,7 @@ Tabla donde pueden encontrar los tabs y los nombres de las funciones a traducir
 - Environment - 22
 - Math - Los primeros 17 elementos desde `abs()` to `sqrt()`
 
-**Marce** - https://github.com/bocoup/p5.js-website/pull/96
+**Marce** - https://github.com/bocoup/p5.js-website/pull/96, https://github.com/bocoup/p5.js-website/pull/138
 - Color - 28
 - Shape - 16
 
